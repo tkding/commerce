@@ -3,6 +3,7 @@
 ## Functionality
 
 The eBay-like e-commerce auction site allows users to perform the following actions:
+
 [Click here to watch the demonstration video](https://youtu.be/aWCZjL_QeD0)
 
 ### 1. Create Listing
